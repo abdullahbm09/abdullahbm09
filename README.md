@@ -7,7 +7,7 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Bin_Masood-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-bin-masood-3ba187a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Bin_Masood-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abm09/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-abdullahbm09-red?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/abdullahbm09)
 [![Email](https://img.shields.io/badge/Email-abdullahbm09%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdullahbm09@gmail.com)
 
