@@ -115,17 +115,6 @@ Investigated and fully remediated a persistent backdoor: database-level SEO spam
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abdullahbm09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahbm09&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
----
 
 ## Selected Publications
 
