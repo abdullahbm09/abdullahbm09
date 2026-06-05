@@ -21,8 +21,6 @@
 
 Cybersecurity professional with a PhD and a decade of combined research, offensive security, and teaching experience. My work sits at the intersection of **offensive security** and **AI-driven threat detection** — I have executed real red team engagements against live cloud-robotic environments, exploited CVEs in production systems, and built intrusion detection systems validated against adversarial attacks on industrial processes.
 
-Currently targeting roles in offensive security, security operations, and security consulting.
-
 ---
 
 ## What I Do
