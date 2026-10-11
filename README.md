@@ -14,7 +14,7 @@
 
 <br/>
 
-**🟢 Open to roles in Ireland (Dublin · Cork · Remote)** &nbsp;·&nbsp; Stamp 4 — full right to work, no sponsorship required
+
 
 </div>
 
