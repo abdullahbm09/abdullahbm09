@@ -11,7 +11,6 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=CiqKoMQAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4474--0011-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4474-0011)
 [![Email](https://img.shields.io/badge/abdullahbm09%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahbm09@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=abdullahbm09&style=flat-square&color=blue)
 
 <br/>
 
